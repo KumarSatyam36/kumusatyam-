@@ -22,7 +22,7 @@ I'm building my career in cybersecurity through hands-on practice. I'm targeting
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kumar-satyam-322b43198?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio:
+- Portfolio: https://kumarsatyam36.github.io/
 - Email: kts441315@gmail.com
 
 *Open to entry-level cybersecurity roles in Delhi NCR.*
